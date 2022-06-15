@@ -1,0 +1,2 @@
+2022-01-24 11:32:31.735 -03 [4744] FATAL:  lock file "postmaster.pid" already exists
+2022-01-24 11:32:31.735 -03 [4744] HINT:  Is another postmaster (PID 9912) running in data directory "D:/Projetos/Database/postgresql"?
